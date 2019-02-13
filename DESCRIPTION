@@ -1,0 +1,10 @@
+Package:nearestNeighborsAlg
+Type:Package
+Title:nearest Neighbors Algorithm
+Version:2019.02.28
+Author: Chadd Frasier
+Maintainer: Chadd Frasier <cmf339@nau.edu>
+Description: Nearest Neighbor Algorithm for CS499
+License: GPL-3
+LinkingTo: RcppEigen
+Suggests: ElemStatLearn, testthat
